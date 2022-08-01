@@ -1,0 +1,10 @@
+.product-card {
+height: 100%;
+width: 100%;
+
+}
+.product-image {
+height: 250px;
+width: 250px;
+object-fit: contain;
+}
